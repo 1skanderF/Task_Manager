@@ -1,1 +1,4 @@
 venv
+requirements1.txt
+venv/
+__pycache__/
